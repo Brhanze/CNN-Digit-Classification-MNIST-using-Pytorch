@@ -64,5 +64,5 @@ A simple yet effective CNN architecture:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Brhanze/CNN-Digit-Classification-MNIST-using-Pytorch/blob/main/CNN.ipynb/CNN-Digit-Classification.git
+git clone https://github.com/Brhanze/CNN-Digit-Classification-MNIST-using-Pytorch.git
 cd CNN-Digit-Classification
